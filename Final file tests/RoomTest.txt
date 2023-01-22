@@ -1,0 +1,22 @@
+A :Building
+0 :State
+id Type EmState
+108 2 0
+109 2 0
+-------
+209 2 0
+-------
+416 2 0
+-------
+xxxxxxx
+B :Building
+0 :State
+id Type EmState
+116 1 0
+-------
+209 1 0
+xxxxxxx
+C :Building
+0 :State
+id Type EmState
+xxxxxxx

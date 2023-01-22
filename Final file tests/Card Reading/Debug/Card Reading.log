@@ -1,0 +1,5 @@
+﻿  Card Reading.cpp
+C:\Users\misty\Desktop\Software Dev\Tests\Final file tests\Card Reading\Card Reading.cpp(70,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misty\Desktop\Software Dev\Tests\Final file tests\Card Reading\Card Reading.cpp(82,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misty\Desktop\Software Dev\Tests\Final file tests\Card Reading\Card Reading.cpp(21,7): warning C4102: 'Rerun': unreferenced label
+  Card Reading.vcxproj -> C:\Users\misty\Desktop\Software Dev\Tests\Final file tests\Card Reading\Debug\Card Reading.exe

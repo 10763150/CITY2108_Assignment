@@ -1,0 +1,9 @@
+﻿  Card Security system.cpp
+C:\Users\misty\Desktop\Software Dev\Card security\Card Security system\Card Security system.cpp(467,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misty\Desktop\Software Dev\Card security\Card Security system\Card Security system.cpp(806,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misty\Desktop\Software Dev\Card security\Card Security system\Card Security system.cpp(906,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misty\Desktop\Software Dev\Card security\Card Security system\Card Security system.cpp(962,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misty\Desktop\Software Dev\Card security\Card Security system\Card Security system.cpp(1157,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misty\Desktop\Software Dev\Card security\Card Security system\Card Security system.cpp(1280,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misty\Desktop\Software Dev\Card security\Card Security system\Card Security system.cpp(502,37): warning C4102: 'MenuRetryCase3_2': unreferenced label
+  Card Security system.vcxproj -> C:\Users\misty\Desktop\Software Dev\Card security\Card Security system\Debug\Card Security system.exe

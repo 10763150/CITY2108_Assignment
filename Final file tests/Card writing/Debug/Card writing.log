@@ -1,0 +1,4 @@
+﻿  Card writing.cpp
+C:\Users\misty\Desktop\Software Dev\Tests\Final file tests\Card writing\Card writing.cpp(69,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\misty\Desktop\Software Dev\Tests\Final file tests\Card writing\Card writing.cpp(81,26): warning C4018: '<': signed/unsigned mismatch
+  Card writing.vcxproj -> C:\Users\misty\Desktop\Software Dev\Tests\Final file tests\Card writing\Debug\Card writing.exe
